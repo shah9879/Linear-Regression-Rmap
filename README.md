@@ -12,3 +12,4 @@ https://youtu.be/nk2CQITm_eo?si=kMMWWCbExp4md2pM
 
 **Imp Books :** https://archive.org/download/econometrics_books/Intro.%20to%20Linear%20Regression%20Analysis%20-%20D.%20C.%20Montgomery%2C%20E.%20A.%20Peck.pdf 
 
+**Research Papers Website :** https://paperswithcode.com/sota
