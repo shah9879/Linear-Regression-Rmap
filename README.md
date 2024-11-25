@@ -16,3 +16,5 @@ https://youtu.be/nk2CQITm_eo?si=kMMWWCbExp4md2pM
 
 **Imp Books :** Introduction to Linear Regression Analysis Book by Douglas C. Montgomery, Elizabeth A. Peck, and G. Geoffrey\
 https://archive.org/download/econometrics_books/Intro.%20to%20Linear%20Regression%20Analysis%20-%20D.%20C.%20Montgomery%2C%20E.%20A.%20Peck.pdf 
+
+**Data Science Books** https://www.quora.com/Which-are-the-good-books-for-data-scientist-and-data-analytics-for-beginner
